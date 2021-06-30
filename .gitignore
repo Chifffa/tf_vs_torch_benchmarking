@@ -1,0 +1,53 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+pycache
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage*
+.tox
+nosetests.xml
+
+# Mr Developer
+.project
+.pydevproject
+*.swo
+*.swp
+*.*~
+*.log
+.settings
+.cproject
+.DS_Store
+*.dump
+.idea
+
+# uwsgi temp files
+*.pid
+*.sock
+*.fifo
+
+*__pycache__
+*.ipynb_checkpoints*
+*.ipynb
+*.jpg
+*nohup.out
+logs
+*.mypy_cache

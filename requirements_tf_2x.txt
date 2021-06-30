@@ -1,0 +1,7 @@
+efficientnet==1.1.1
+image-classifiers==1.0.0
+numpy==1.19.4
+nvsmi==0.4.2
+pandas==1.2.4
+tensorflow==2.5.0
+tqdm==4.46.0
